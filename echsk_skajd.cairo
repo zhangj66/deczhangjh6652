@@ -5,6 +5,6 @@ mod echsk_skajd {
 
     #[external(v0)]
     fn echsk_skajd(self: @ContractState) -> felt252 {
-        return 'echo aaswwwd jiojsw!';
+        return 'echo aaswwwd jiojswdaswww!';
     }
 }
